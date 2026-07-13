@@ -123,7 +123,7 @@
 ##  Contribution 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/waghmare-sujit/waghmare-sujit/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waghmare-sujit&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 ---
