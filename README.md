@@ -7,10 +7,9 @@
 
 ---
 
-  - I'm a developer and student based in India, currently turning "shower thoughts" into functional code.<br/>
-  - I shy away from the generic — you won't find any 'Hello World' note apps here,<br/> just small, opinionated tools that make life easier.<br/>
+  - I'm a developer and student based in India, currently turning "shower thoughts" into functional code.
+  - I build tools that prioritize utility over "AI slop." My focus is on creating environments that keep you locked into your goals, minimizing cognitive noise, and providing high-fidelity data in real-time.
   - This is a fresh profile where I'll be uploading projects, experiments, and things I'm currently working on.
-</p>
 
 ---
 
@@ -28,8 +27,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=CSS&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=CSS&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.icons8.com/color/35/adobe-premiere-pro.png" height="34" title="Premiere Pro"/>
 <img src="https://img.icons8.com/color/35/adobe-after-effects.png" height="34" title="After Effects"/>
