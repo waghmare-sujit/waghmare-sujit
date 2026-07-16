@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td style="width: 50%; text-align: center; padding: 5px;"><strong>Dynamic Tags</strong></td>
-    <td style="width: 50%; text-align: center; padding: 5px;"><strong>Canvas Heading Distributor</strong></td>
+    <td style="width: 50%; text-align: center; padding: 5px;"><strong>Sonicfonia</strong></td>
   </tr>
   <tr>
     <td style="width: 50%; text-align: center; padding: 5px;">
@@ -92,8 +92,8 @@
       </a>
     </td>
     <td style="width: 50%; text-align: center; padding: 5px;">
-      <a href="https://github.com/waghmare-sujit/obsidian-canvas-distributor">
-        <img src="https://raw.githubusercontent.com/waghmare-sujit/obsidian-canvas-distributor/main/assets/preview.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      <a href="https://github.com/waghmare-sujit/sonicfonia">
+        <img src="https://raw.githubusercontent.com/waghmare-sujit/sonicfonia/main/assets/sonicfonia-showcase%20%5B507B2D4%5D.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </a>
     </td>
   </tr>
