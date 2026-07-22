@@ -40,7 +40,7 @@
 ##  Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/_exotic.sus" target="_blank">
+  <a href="https://instagram.com/_metanoia.sujit" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/ai_fbi" target="_blank">
@@ -122,7 +122,7 @@
 ##  Contribution 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waghmare-sujit&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waghmare-sujit&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bb9af7&area=true&area_color=bb9af7&hide_border=true&custom_title=Contribution%20Activity"/>
 </p>
 
 ---
