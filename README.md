@@ -66,38 +66,37 @@
 
 <table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; text-align: center; padding: 5px;"><strong>Quick Text Highlighter</strong></td>
-    <td style="width: 50%; text-align: center; padding: 5px;"><strong>Gemini in Side Panel</strong></td>
+    <td style="width: 100%; text-align: center; padding: 5px;"><strong>Gemini in Side Panel</strong></td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: center; padding: 5px;">
-      <a href="https://github.com/waghmare-sujit/quick-text-highlighter">
-        <img src="https://github.com/waghmare-sujit/quick-text-highlighter/blob/8df5f7aa94f22f94110254e49ca7b203ae348cb4/assets/images/quick-text-highlighter-banner.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-      </a>
-    </td>
-    <td style="width: 50%; text-align: center; padding: 5px;">
+    <td style="width: 100%; text-align: center; padding: 5px;">
       <a href="https://github.com/waghmare-sujit/gemini-side-panel">
-        <img src="https://github.com/waghmare-sujit/gemini-side-panel/blob/51b5b39dfb1c9d4c672cf91de885e8c9a719c55e/assets/images/Gemini-side-panel-banner%20%5BSarvam%20Support%5D.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+        <img src="https://github.com/waghmare-sujit/gemini-side-panel/blob/100b65426f96677b7e643036579a9e784c0e2ec1/assets/images/Gemini-side-panel-banner%20%5BD907F71%5D.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </a>
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: center; padding: 5px;"><strong>Dynamic Tags</strong></td>
-    <td style="width: 50%; text-align: center; padding: 5px;"><strong>Sonicfonia</strong></td>
+    <td style="width: 100%; text-align: center; padding: 5px;"><strong>Dynamic Tags</strong></td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: center; padding: 5px;">
+    <td style="width: 100%; text-align: center; padding: 5px;">
       <a href="https://github.com/waghmare-sujit/dynamic-tags">
         <img src="https://raw.githubusercontent.com/waghmare-sujit/dynamic-tags/main/assets/dynamic-tags-intro-showcase.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </a>
     </td>
-    <td style="width: 50%; text-align: center; padding: 5px;">
+  </tr>
+  <tr>
+    <td style="width: 100%; text-align: center; padding: 5px;"><strong>Sonicfonia</strong></td>
+  </tr>
+  <tr>
+    <td style="width: 100%; text-align: center; padding: 5px;">
       <a href="https://github.com/waghmare-sujit/sonicfonia">
         <img src="https://raw.githubusercontent.com/waghmare-sujit/sonicfonia/main/assets/sonicfonia-showcase%20%5B507B2D4%5D.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
