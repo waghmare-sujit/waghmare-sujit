@@ -26,7 +26,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=CSS&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -97,24 +96,6 @@
   </tr>
 </table>
 
-
----
-
-
-## Stats
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=waghmare-sujit&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td width="52%" align="left">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=waghmare-sujit&theme=tokyonight&hide_border=true"/>
-    </td>
-    <td width="48%" align="right">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=waghmare-sujit&layout=compact&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
