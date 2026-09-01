@@ -98,7 +98,7 @@
   </tr>
 </table>
 
----
+<!---
 
 ##  Contribution 
 
@@ -107,6 +107,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=waghmare-sujit&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bb9af7&area=true&area_color=bb9af7&hide_border=true&custom_title=Contribution%20Activity"/>
   
 </p>
+-->
 
 ---
 
